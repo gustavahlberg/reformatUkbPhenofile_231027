@@ -1,0 +1,26 @@
+Field ID	Description	Category
+12224	Abdominal MRI measurement completed	Abdominal MRI  
+12223	Abdominal MRI measuring method	Abdominal MRI  
+12140	Believed safe to perform abdominal MRI scan	Abdominal MRI  
+20201	Dixon technique for internal fat - DICOM	Abdominal MRI  
+12623	Reason abdominal MRI not completed	Abdominal MRI  
+12848	Reason abdominal MRI not performed	Abdominal MRI  
+12664	Reason believed unsafe to perform abdominal MRI	Abdominal MRI  
+22408	Abdominal subcutaneous adipose tissue volume (ASAT)	Abdominal composition  
+22405	Anterior thigh lean muscle volume (left)	Abdominal composition  
+22403	Anterior thigh lean muscle volume (right)	Abdominal composition  
+22414	Image quality indicator	Abdominal composition  
+22406	Posterior thigh lean muscle volume (left)	Abdominal composition  
+22404	Posterior thigh lean muscle volume (right)	Abdominal composition  
+22412	Thigh error indicator (left)	Abdominal composition  
+22413	Thigh error indicator (right)	Abdominal composition  
+22409	Total thigh muscle volume	Abdominal composition  
+22410	Total trunk fat volume	Abdominal composition  
+22411	VAT/ASAT error indicator	Abdominal composition  
+22407	Visceral adipose tissue volume (VAT)	Abdominal composition  
+20204	Liver Imaging - T1 ShMoLLI - DICOM	Liver MRI  
+20203	Liver images - gradient echo - DICOM	Liver MRI  
+20206	Measurements of pancreas volume - DICOM	Pancreas MRI  
+20259	Pancreas Images - ShMoLLI - DICOM	Pancreas MRI  
+20260	Pancreas Images - gradient echo - DICOM	Pancreas MRI  
+20202	Pancreatic fat - DICOM	Pancreas MRI  

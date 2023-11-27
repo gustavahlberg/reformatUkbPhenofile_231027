@@ -1,0 +1,146 @@
+Field ID	Description	Category
+40008	Age at cancer diagnosis	Cancer register  
+40012	Behaviour of cancer tumour	Cancer register  
+40019	Cancer report format	Cancer register  
+40005	Date of cancer diagnosis	Cancer register  
+40011	Histology of cancer tumour	Cancer register  
+40009	Reported occurrences of cancer	Cancer register  
+40006	Type of cancer: ICD10	Cancer register  
+40013	Type of cancer: ICD9	Cancer register  
+40007	Age at death	Death register  
+40002	Contributory (secondary) causes of death: ICD10	Death register  
+40000	Date of death	Death register  
+40018	Death report format	Death register  
+40010	Description of cause of death	Death register 
+40001	Underlying (primary) cause of death: ICD10	Death register  
+41252	Episodes containing "Inpatient record format" data	Hospital in-patient  
+41253	Inpatient record format	Hospital in-patient  
+42004	Date of NSTEMI	Myocardial infarction outcomes  
+42002	Date of STEMI	Myocardial infarction outcomes  
+42000	Date of myocardial infarction	Myocardial infarction outcomes  
+42005	Source of NSTEMI report	Myocardial infarction outcomes  
+42003	Source of STEMI report	Myocardial infarction outcomes  
+42001	Source of myocardial infarction report	Myocardial infarction outcomes  
+41094	Episodes containing "Administrative and legal status of patient" data	Spell and Episode Data (admission and discharge)  
+41089	Episodes containing "Beginning of spell indicator" data	Spell and Episode Data (admission and discharge)  
+41092	Episodes containing "Current PCT responsible for patient" data	Spell and Episode Data (admission and discharge)  
+41096	Episodes containing "Date of admission to hospital" data	Spell and Episode Data (admission and discharge)  
+41095	Episodes containing "Date of decision to admit to hospital" data	Spell and Episode Data (admission and discharge)  
+41101	Episodes containing "Date of discharge from hospital" data	Spell and Episode Data (admission and discharge)  
+41103	Episodes containing "Destination on discharge from hospital" data (polymorphic)	Spell and Episode Data (admission and discharge)  
+41239	Episodes containing "Destination on discharge from hospital" data (recoded)	Spell and Episode Data (admission and discharge)  
+41088	Episodes containing "Duration of episode within HES data year" data	Spell and Episode Data (admission and discharge)  
+41085	Episodes containing "Duration of episode" data	Spell and Episode Data (admission and discharge)  
+41091	Episodes containing "Duration of spell" data	Spell and Episode Data (admission and discharge)  
+41090	Episodes containing "End of spell indicator" data	Spell and Episode Data (admission and discharge)  
+41084	Episodes containing "Episode end date" data	Spell and Episode Data (admission and discharge)  
+41086	Episodes containing "Episode order" data	Spell and Episode Data (admission and discharge)  
+41083	Episodes containing "Episode start date" data	Spell and Episode Data (admission and discharge)  
+41087	Episodes containing "Episode status" data	Spell and Episode Data (admission and discharge)  
+41132	Episodes containing "Episode type" data	Spell and Episode Data (admission and discharge)  
+41100	Episodes containing "First regular day or night of admission to hosp" data	Spell and Episode Data (admission and discharge)  
+41110	Episodes containing "Intended management of patient" data (polymorphic)	Spell and Episode Data (admission and discharge)  
+41241	Episodes containing "Intended management of patient" data (recoded)	Spell and Episode Data (admission and discharge)  
+41111	Episodes containing "Main speciality of consultant" data (polymorphic)	Spell and Episode Data (admission and discharge)  
+41242	Episodes containing "Main speciality of consultant" data (recoded)	Spell and Episode Data (admission and discharge)  
+41098	Episodes containing "Method of admission to hospital" data (polymorphic)	Spell and Episode Data (admission and discharge)  
+41236	Episodes containing "Method of admission to hospital" data (recoded)	Spell and Episode Data (admission and discharge)  
+41102	Episodes containing "Method of discharge from hospital" data (polymorphic)	Spell and Episode Data (admission and discharge)  
+41238	Episodes containing "Method of discharge from hospital" data (recoded)	Spell and Episode Data (admission and discharge)  
+41093	Episodes containing "PCT where patients GP was registered" data	Spell and Episode Data (admission and discharge)  
+41109	Episodes containing "Patient classification on admission" data (polymorphic)	Spell and Episode Data (admission and discharge)  
+41240	Episodes containing "Patient classification on admission" data (recoded)	Spell and Episode Data (admission and discharge)  
+41099	Episodes containing "Source of admission to hospital" data (polymorphic)	Spell and Episode Data (admission and discharge)  
+41237	Episodes containing "Source of admission to hospital" data (recoded)	Spell and Episode Data (admission and discharge)  
+41112	Episodes containing "Treatment speciality of consultant" data (polymorphic)	Spell and Episode Data (admission and discharge)  
+41243	Episodes containing "Treatment speciality of consultant" data (recoded)	Spell and Episode Data (admission and discharge)  
+41097	Episodes containing "Waiting time for hospital admission" data	Spell and Episode Data (admission and discharge)  
+41143	Episodes containing "Diagnoses - main ICD10 - addendum" data	Spell and Episode Data (diagnoses)  
+41142	Episodes containing "Diagnoses - main ICD10" data	Spell and Episode Data (diagnoses)  
+41144	Episodes containing "Diagnoses - main ICD9" data	Spell and Episode Data (diagnoses)  
+41079	Episodes containing "Diagnoses - secondary ICD10 addendum" data	Spell and Episode Data (diagnoses)  
+41078	Episodes containing "Diagnoses - secondary ICD10" data	Spell and Episode Data (diagnoses)  
+41076	Episodes containing "Diagnoses - secondary ICD9" data	Spell and Episode Data (diagnoses)  
+41105	Episodes containing "External cause - ICD10 addendum" data	Spell and Episode Data (diagnoses)  
+41104	Episodes containing "External cause - ICD10" data	Spell and Episode Data (diagnoses)  
+41118	Episodes containing "Anaesthetic administered during delivery" data	Spell and Episode Data (maternity)  
+41119	Episodes containing "Anaesthetic administered post delivery" data	Spell and Episode Data (maternity)  
+41115	Episodes containing "Antenatal stay" data	Spell and Episode Data (maternity)  
+41069	Episodes containing "Birth order" data	Spell and Episode Data (maternity)  
+41070	Episodes containing "Date of birth of baby" data	Spell and Episode Data (maternity)  
+41113	Episodes containing "Date of first antenatal assessment" data	Spell and Episode Data (maternity)  
+41068	Episodes containing "Delivery method" data	Spell and Episode Data (maternity)  
+41120	Episodes containing "Delivery onset method" data	Spell and Episode Data (maternity)  
+41067	Episodes containing "Delivery place" data	Spell and Episode Data (maternity)  
+41114	Episodes containing "Gestation period at first antenatal assessment" data	Spell and Episode Data (maternity)  
+41116	Episodes containing "Intended delivery place" data	Spell and Episode Data (maternity)  
+41123	Episodes containing "Level of neonatal care" data	Spell and Episode Data (maternity)  
+41124	Episodes containing "Mother age on date of delivery" data	Spell and Episode Data (maternity)  
+41121	Episodes containing "Number of babies delivered from single pregnancy" data	Spell and Episode Data (maternity)  
+41125	Episodes containing "Number of previous pregnancies" data	Spell and Episode Data (maternity)  
+41066	Episodes containing "Number of weeks of gestation" data	Spell and Episode Data (maternity)  
+41122	Episodes containing "Postnatal stay" data	Spell and Episode Data (maternity)  
+41117	Episodes containing "Reason for changing delivery place" data	Spell and Episode Data (maternity)  
+41072	Episodes containing "Resuscitation method" data	Spell and Episode Data (maternity)  
+41073	Episodes containing "Sex of baby" data	Spell and Episode Data (maternity)  
+41071	Episodes containing "Status of baby at birth" data	Spell and Episode Data (maternity)  
+41075	Episodes containing "Status of person conducting delivery" data	Spell and Episode Data (maternity)  
+41074	Episodes containing "Weight of baby" data	Spell and Episode Data (maternity)  
+41148	Episodes containing "Date of operation" data	Spell and Episode Data (operations)  
+41082	Episodes containing "Dates of operations" data	Spell and Episode Data (operations)  
+41107	Episodes containing "Duration of post-operative stay" data	Spell and Episode Data (operations)  
+41108	Episodes containing "Duration of pre-operative stay" data	Spell and Episode Data (operations)  
+41106	Episodes containing "Operation status" data	Spell and Episode Data (operations)  
+41146	Episodes containing "Operative procedure - main OPCS4" data	Spell and Episode Data (operations)  
+41080	Episodes containing "Operative procedures - secondary OPCS4" data	Spell and Episode Data (operations)  
+42010	Date of intracerebral haemorrhage	Stroke outcomes  
+42008	Date of ischaemic stroke	Stroke outcomes  
+42006	Date of stroke	Stroke outcomes  
+42012	Date of subarachnoid haemorrhage	Stroke outcomes  
+42011	Source of intracerebral haemorrhage report	Stroke outcomes  
+42009	Source of ischaemic stroke report	Stroke outcomes  
+42007	Source of stroke report	Stroke outcomes  
+42013	Source of subarachnoid haemorrhage report	Stroke outcomes  
+41232	Administrative and legal statuses	Summary Information (admission and discharge)  
+41211	Destinations on discharge from hospital (polymorphic)	Summary Information (admission and discharge)  
+41248	Destinations on discharge from hospital (recoded)	Summary Information (admission and discharge)  
+41231	Hospital episode type	Summary Information (admission and discharge)  
+41206	Intended management of patient (polymorphic)	Summary Information (admission and discharge)  
+41244	Intended management of patient (recoded)	Summary Information (admission and discharge)  
+41207	Main speciality of consultant (polymorphic)	Summary Information (admission and discharge)  
+41245	Main speciality of consultant (recoded)	Summary Information (admission and discharge)  
+41212	Methods of admission to hospital (polymorphic)	Summary Information (admission and discharge)  
+41249	Methods of admission to hospital (recoded)	Summary Information (admission and discharge)  
+41213	Methods of discharge from hospital (polymorphic)	Summary Information (admission and discharge)  
+41250	Methods of discharge from hospital (recoded)	Summary Information (admission and discharge)  
+41229	PCT responsible for patient data	Summary Information (admission and discharge)  
+41230	PCT where patients GP was registered	Summary Information (admission and discharge)  
+41209	Patient classification on admission (polymorphic)	Summary Information (admission and discharge)  
+41247	Patient classification on admission (recoded)	Summary Information (admission and discharge)  
+41233	Sources of admission to hospital (polymorphic)	Summary Information (admission and discharge)  
+41251	Sources of admission to hospital (recoded)	Summary Information (admission and discharge)  
+41235	Spells in hospital	Summary Information (admission and discharge)  
+41208	Treatment speciality of consultant (polymorphic)	Summary Information (admission and discharge)  
+41246	Treatment speciality of consultant (recoded)	Summary Information (admission and discharge)  
+41202	Diagnoses - main ICD10	Summary Information (diagnoses)  
+41203	Diagnoses - main ICD9	Summary Information (diagnoses)  
+41204	Diagnoses - secondary ICD10	Summary Information (diagnoses)  
+41205	Diagnoses - secondary ICD9	Summary Information (diagnoses)  
+41201	External causes	Summary Information (diagnoses)  
+41219	Anaesthetics administered during delivery	Summary Information (maternity)  
+41220	Anaesthetics administered post delivery	Summary Information (maternity)  
+41221	Delivery methods	Summary Information (maternity)  
+41222	Delivery onset methods	Summary Information (maternity)  
+41223	Delivery places	Summary Information (maternity)  
+41224	Intended delivery places	Summary Information (maternity)  
+41225	Resuscitation methods	Summary Information (maternity)  
+41226	Sex of baby	Summary Information (maternity)  
+41227	Status of baby at birth	Summary Information (maternity)  
+41228	Statuses of person conducting delivery	Summary Information (maternity)  
+41200	Operative procedures - main OPCS4	Summary Information (operations)  
+41210	Operative procedures - secondary OPCS4	Summary Information (operations)  
+41214	Carer support indicators	Summary Information (psychiatric)  
+41215	Detention categories	Summary Information (psychiatric)  
+41218	History of psychiatric care on admission	Summary Information (psychiatric)  
+41216	Legal statuses	Summary Information (psychiatric)  
+41217	Mental categories	Summary Information (psychiatric)

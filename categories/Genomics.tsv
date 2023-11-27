@@ -1,0 +1,79 @@
+Field ID	Description	Category
+22101	Chromosome 1 genotype results	Genotype Results  
+22110	Chromosome 10 genotype results	Genotype Results  
+22111	Chromosome 11 genotype results	Genotype Results  
+22112	Chromosome 12 genotype results	Genotype Results  
+22113	Chromosome 13 genotype results	Genotype Results  
+22114	Chromosome 14 genotype results	Genotype Results  
+22115	Chromosome 15 genotype results	Genotype Results  
+22116	Chromosome 16 genotype results	Genotype Results  
+22117	Chromosome 17 genotype results	Genotype Results  
+22118	Chromosome 18 genotype results	Genotype Results  
+22119	Chromosome 19 genotype results	Genotype Results  
+22102	Chromosome 2 genotype results	Genotype Results  
+22120	Chromosome 20 genotype results	Genotype Results  
+22121	Chromosome 21 genotype results	Genotype Results  
+22122	Chromosome 22 genotype results	Genotype Results  
+22103	Chromosome 3 genotype results	Genotype Results  
+22104	Chromosome 4 genotype results	Genotype Results  
+22105	Chromosome 5 genotype results	Genotype Results  
+22106	Chromosome 6 genotype results	Genotype Results  
+22107	Chromosome 7 genotype results	Genotype Results  
+22108	Chromosome 8 genotype results	Genotype Results  
+22109	Chromosome 9 genotype results	Genotype Results  
+22123	Chromosome X genotype results	Genotype Results  
+22100	Chromosome XY genotype results	Genotype Results  
+22124	Chromosome Y genotype results	Genotype Results  
+22125	Mitochondrial genotype results	Genotype Results  
+22025	Affymetrix quality control metric "Cluster.CR"	Genotyping process and sample QC  
+22026	Affymetrix quality control metric "dQC"	Genotyping process and sample QC  
+22002	CEL files	Genotyping process and sample QC  
+22024	DNA concentration	Genotyping process and sample QC  
+22006	Genetic ethnic grouping	Genotyping process and sample QC  
+22021	Genetic kinship to other participants	Genotyping process and sample QC  
+22009	Genetic principal components	Genotyping process and sample QC  
+22001	Genetic sex	Genotyping process and sample QC  
+22000	Genotype measurement batch	Genotyping process and sample QC  
+22007	Genotype measurement plate	Genotyping process and sample QC  
+22008	Genotype measurement well	Genotyping process and sample QC  
+22003	Heterozygosity	Genotyping process and sample QC  
+22004	Heterozygosity, PCA corrected	Genotyping process and sample QC  
+22005	Missingness	Genotyping process and sample QC  
+22027	Outliers for heterozygosity or missing rate	Genotyping process and sample QC  
+22019	Sex chromosome aneuploidy	Genotyping process and sample QC  
+22022	Sex inference X probe-intensity	Genotyping process and sample QC  
+22023	Sex inference Y probe-intensity	Genotyping process and sample QC  
+22029	Use in phasing Chromosome X	Genotyping process and sample QC  
+22030	Use in phasing Chromosome XY	Genotyping process and sample QC  
+22028	Use in phasing Chromosomes 1-22	Genotyping process and sample QC  
+22020	Used in genetic principal components	Genotyping process and sample QC  
+22182	HLA imputation values	HLA
+22801	Chromosome 1 imputation and haplotype results	Imputation  
+22810	Chromosome 10 imputation and haplotype results	Imputation  
+22811	Chromosome 11 imputation and haplotype results	Imputation  
+22812	Chromosome 12 imputation and haplotype results	Imputation  
+22813	Chromosome 13 imputation and haplotype results	Imputation  
+22814	Chromosome 14 imputation and haplotype results	Imputation  
+22815	Chromosome 15 imputation and haplotype results	Imputation  
+22816	Chromosome 16 imputation and haplotype results	Imputation  
+22817	Chromosome 17 imputation and haplotype results	Imputation  
+22818	Chromosome 18 imputation and haplotype results	Imputation  
+22819	Chromosome 19 imputation and haplotype results	Imputation  
+22802	Chromosome 2 imputation and haplotype results	Imputation  
+22820	Chromosome 20 imputation and haplotype results	Imputation  
+22821	Chromosome 21 imputation and haplotype results	Imputation  
+22822	Chromosome 22 imputation and haplotype results	Imputation  
+22803	Chromosome 3 imputation and haplotype results	Imputation  
+22804	Chromosome 4 imputation and haplotype results	Imputation  
+22805	Chromosome 5 imputation and haplotype results	Imputation  
+22806	Chromosome 6 imputation and haplotype results	Imputation  
+22807	Chromosome 7 imputation and haplotype results	Imputation  
+22808	Chromosome 8 imputation and haplotype results	Imputation  
+22809	Chromosome 9 imputation and haplotype results	Imputation  
+22013	Genetic relatedness IBS0	Interim genotype release  
+22018	Genetic relatedness exclusions	Interim genotype release  
+22012	Genetic relatedness factor	Interim genotype release  
+22011	Genetic relatedness pairing	Interim genotype release  
+22010	Recommended genomic analysis exclusions	Interim genotype release  
+22051	UKBiLEVE genotype quality control for samples	Interim genotype release  
+22052	UKBiLEVE unrelatedness indicator	Interim genotype release  

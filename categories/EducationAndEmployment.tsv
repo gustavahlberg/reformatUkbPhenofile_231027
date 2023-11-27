@@ -1,0 +1,18 @@
+Field ID	Description	Category
+845	Age completed full time education	Education  
+6138	Qualifications	Education  
+10722	Qualifications (pilot)	Education  
+20121	Cascot confidence score	Employment  
+6142	Current employment status	Employment  
+20119	Current employment status - corrected	Employment  
+796	Distance between home and job workplace	Employment  
+777	Frequency of travelling from home to job workplace	Employment  
+132	Job code	Employment  
+20024	Job code - deduced	Employment  
+3426	Job involve night shift work	Employment  
+816	Job involves heavy manual or physical work	Employment  
+806	Job involves mainly walking or standing	Employment  
+826	Job involves shift work	Employment  
+767	Length of working week for main job	Employment  
+757	Time employed in main current job	Employment  
+6143	Transport type for commuting to job workplace	Employment 

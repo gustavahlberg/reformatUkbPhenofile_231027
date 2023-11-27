@@ -1,0 +1,67 @@
+D	Description	Category
+90012	Overall acceleration average	Acceleration averages  
+4194	Pulse rate	Arterial stiffness  
+21021	Pulse wave Arterial Stiffness index	Arterial stiffness  
+4079	Diastolic blood pressure, automated reading	Blood pressure  
+94	Diastolic blood pressure, manual reading	Blood pressure  
+4081	Method of measuring blood pressure	Blood pressure  
+95	Pulse rate (during blood-pressure measurement)	Blood pressure  
+102	Pulse rate, automated reading	Blood pressure  
+4080	Systolic blood pressure, automated reading	Blood pressure  
+93	Systolic blood pressure, manual reading	Blood pressure  
+21001	Body mass index (BMI)	Body size measures  
+49	Hip circumference	Body size measures  
+20015	Sitting height	Body size measures  
+50	Standing height	Body size measures  
+48	Waist circumference	Body size measures  
+21002	Weight	Body size measures  
+21	Weight method	Body size measures  
+78	Heel bone mineral density (BMD) T-score, automated	Bone-densitometry of heel  
+4106	Heel bone mineral density (BMD) T-score, automated (left)	Bone-densitometry of heel  
+4125	Heel bone mineral density (BMD) T-score, automated (right)	Bone-densitometry of heel  
+4138	Heel bone mineral density (BMD) T-score, manual entry (left)	Bone-densitometry of heel  
+4143	Heel bone mineral density (BMD) T-score, manual entry (right)	Bone-densitometry of heel  
+77	Heel bone ultrasound T-score, manual entry	Bone-densitometry of heel  
+46	Hand grip strength (left)	Hand grip strength  
+47	Hand grip strength (right)	Hand grip strength  
+23124	Arm fat mass (left)	Impedance measures  
+23120	Arm fat mass (right)	Impedance measures  
+23123	Arm fat percentage (left)	Impedance measures  
+23119	Arm fat percentage (right)	Impedance measures  
+23125	Arm fat-free mass (left)	Impedance measures  
+23121	Arm fat-free mass (right)	Impedance measures  
+23126	Arm predicted mass (left)	Impedance measures  
+23122	Arm predicted mass (right)	Impedance measures  
+23105	Basal metabolic rate	Impedance measures  
+23099	Body fat percentage	Impedance measures  
+23110	Impedance of arm (left)	Impedance measures  
+23109	Impedance of arm (right)	Impedance measures  
+6222	Impedance of arm, manual entry (left)	Impedance measures  
+6221	Impedance of arm, manual entry (right)	Impedance measures  
+23108	Impedance of leg (left)	Impedance measures  
+23107	Impedance of leg (right)	Impedance measures  
+6220	Impedance of leg, manual entry (left)	Impedance measures  
+6219	Impedance of leg, manual entry (right)	Impedance measures  
+23106	Impedance of whole body	Impedance measures  
+6218	Impedance of whole body, manual entry	Impedance measures  
+23116	Leg fat mass (left)	Impedance measures  
+23112	Leg fat mass (right)	Impedance measures  
+23115	Leg fat percentage (left)	Impedance measures  
+23111	Leg fat percentage (right)	Impedance measures  
+23117	Leg fat-free mass (left)	Impedance measures  
+23113	Leg fat-free mass (right)	Impedance measures  
+23118	Leg predicted mass (left)	Impedance measures  
+23114	Leg predicted mass (right)	Impedance measures  
+23128	Trunk fat mass	Impedance measures  
+23127	Trunk fat percentage	Impedance measures  
+23129	Trunk fat-free mass	Impedance measures  
+23130	Trunk predicted mass	Impedance measures  
+23100	Whole body fat mass	Impedance measures  
+23101	Whole body fat-free mass	Impedance measures  
+23102	Whole body water mass	Impedance measures  
+3063	Forced expiratory volume in 1-second (FEV1)	Spirometry  
+10695	Forced expiratory volume in 1-second (FEV1) (pilot)	Spirometry  
+3062	Forced vital capacity (FVC)	Spirometry  
+10694	Forced vital capacity (FVC) (pilot)	Spirometry  
+3064	Peak expiratory flow (PEF)	Spirometry  
+10696	Peak expiratory flow (PEF) (pilot)	Spirometry  

@@ -1,0 +1,11 @@
+Field ID	Description	Category
+5266	Applanation curve (left)	Intraocular pressure  
+5258	Applanation curve (right)	Intraocular pressure  
+3066	Data points for blow	Spirometry  
+10697	Data points for blow (pilot)	Spirometry  
+40010	Description of cause of death	Death register  
+22182	HLA imputation values	HLA  
+5267	Pressure curve (left)	Intraocular pressure  
+5259	Pressure curve (right)	Intraocular pressure  
+4205	Pulse wave pressure versus time response curve	Arterial stiffness  
+12688	Vicorder trace	    Pulse wave analysis

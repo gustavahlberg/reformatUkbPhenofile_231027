@@ -1,0 +1,188 @@
+
+Field ID	Description	Category
+20552	Behavioural and miscellaneous addictions	Addictions  
+20431	Ever addicted to a behaviour or miscellanous	Addictions  
+20406	Ever addicted to alcohol	Addictions  
+20401	Ever addicted to any substance or behaviour	Addictions  
+20456	Ever addicted to illicit or recreational drugs	Addictions  
+20503	Ever addicted to prescription or over-the-counter medication	Addictions  
+20404	Ever physically dependent on alcohol	Addictions  
+20457	Ongoing addiction or dependence on illicit or recreational drugs	Addictions  
+20504	Ongoing addiction or dependence to over-the-counter medication	Addictions  
+20415	Ongoing addiction to alcohol	Addictions  
+20432	Ongoing behavioural or miscellanous addiction	Addictions  
+20551	Substance of prescription or over-the-counter medication addiction	Addictions  
+20410	Age when known person last commented about drinking habits	Alcohol use  
+20403	Amount of alcohol drunk on a typical drinking day	Alcohol use  
+20411	Ever been injured or injured someone else through drinking alcohol	Alcohol use  
+20405	Ever had known person concerned about, or recommend reduction of, alcohol consumption	Alcohol use  
+20416	Frequency of consuming six or more units of alcohol	Alcohol use  
+20414	Frequency of drinking alcohol	Alcohol use  
+20407	Frequency of failure to fulfil normal expectations due to drinking alcohol in last year	Alcohol use  
+20409	Frequency of feeling guilt or remorse after drinking alcohol in last year	Alcohol use  
+20413	Frequency of inability to cease drinking in last year	Alcohol use  
+20408	Frequency of memory loss due to drinking alcohol in last year	Alcohol use  
+20412	Frequency of needing morning drink of alcohol after heavy drinking session in last year	Alcohol use  
+20550	Activities undertaken to treat anxiety	Anxiety  
+20419	Difficulty concentrating during worst period of anxiety	Anxiety  
+20541	Difficulty stopping worrying during worst period of anxiety	Anxiety  
+20429	Easily tired during worst period of anxiety	Anxiety  
+20421	Ever felt worried, tense, or anxious for most of a month or longer	Anxiety  
+20425	Ever worried more than most people would in similar situation	Anxiety  
+20537	Frequency of difficulty controlling worry during worst period of anxiety	Anxiety  
+20539	Frequency of inability to stop worrying during worst period of anxiety	Anxiety  
+20427	Frequent trouble falling or staying asleep during worst period of anxiety	Anxiety  
+20418	Impact on normal roles during worst period of anxiety	Anxiety  
+20423	Keyed up or on edge during worst period of anxiety	Anxiety  
+20420	Longest period spent worried or anxious	Anxiety  
+20422	More irritable than usual during worst period of anxiety	Anxiety  
+20540	Multiple worries during worst period of anxiety	Anxiety  
+20543	Number of things worried about during worst period of anxiety	Anxiety  
+20428	Professional informed about anxiety	Anxiety  
+20505	Recent easy annoyance or irritability	Anxiety  
+20512	Recent feelings of foreboding	Anxiety  
+20506	Recent feelings or nervousness or anxiety	Anxiety  
+20509	Recent inability to stop or control worrying	Anxiety  
+20516	Recent restlessness	Anxiety  
+20515	Recent trouble relaxing	Anxiety  
+20520	Recent worrying too much about different things	Anxiety  
+20426	Restless during period of worst anxiety	Anxiety  
+20542	Stronger worrying (than other people) during period of worst anxiety	Anxiety  
+20549	Substances taken for anxiety	Anxiety  
+20417	Tense, sore, or aching muscles during worst period of anxiety	Anxiety  
+20538	Worried most days during period of worst anxiety	Anxiety  
+20455	Age when last took cannabis	Cannabis use  
+20453	Ever taken cannabis	Cannabis use  
+20454	Maximum frequency of taking cannabis	Cannabis use  
+20547	Activities undertaken to treat depression	Depression  
+20433	Age at first episode of depression	Depression  
+20434	Age at last episode of depression	Depression  
+20445	Depression possibly related to childbirth	Depression  
+20447	Depression possibly related to stressful or traumatic event	Depression  
+20532	Did your sleep change?	Depression  
+20435	Difficulty concentrating during worst depression	Depression  
+20438	Duration of worst depression	Depression  
+20446	Ever had prolonged feelings of sadness or depression	Depression  
+20441	Ever had prolonged loss of interest in normal activities	Depression  
+20449	Feelings of tiredness during worst episode of depression	Depression  
+20450	Feelings of worthlessness during worst period of depression	Depression  
+20436	Fraction of day affected during worst episode of depression	Depression  
+20439	Frequency of depressed days during worst episode of depression	Depression  
+20440	Impact on normal roles during worst period of depression	Depression  
+20442	Lifetime number of depressed periods	Depression  
+20448	Professional informed about depression	Depression  
+20518	Recent changes in speed/amount of moving or speaking	Depression  
+20510	Recent feelings of depression	Depression  
+20507	Recent feelings of inadequacy	Depression  
+20519	Recent feelings of tiredness or low energy	Depression  
+20514	Recent lack of interest or pleasure in doing things	Depression  
+20511	Recent poor appetite or overeating	Depression  
+20513	Recent thoughts of suicide or self-harm	Depression  
+20508	Recent trouble concentrating on things	Depression  
+20534	Sleeping too much	Depression  
+20546	Substances taken for depression	Depression  
+20437	Thoughts of death during worst depression	Depression  
+20533	Trouble falling asleep	Depression  
+20517	Trouble falling or staying asleep, or sleeping too much	Depression  
+20535	Waking too early	Depression  
+20536	Weight change during worst episode of depression	Depression  
+20460	Belief that own life is meaningful	Happiness and subjective well-being  
+20458	General happiness	Happiness and subjective well-being  
+20459	General happiness with own health	Happiness and subjective well-being  
+20502	Ever had period extreme irritability	Mania  
+20501	Ever had period of mania / excitability	Mania  
+20492	Longest period of mania or irritability	Mania  
+20548	Manifestations of mania or irritability	Mania  
+20493	Severity of problems due to mania or irritability	Mania  
+20499	Ever sought or received professional help for mental distress	Mental distress  
+20500	Ever suffered mental distress preventing usual activities	Mental distress  
+20544	Mental health problems ever diagnosed by a professional	Mental distress  
+20126	Bipolar and major depression status	Mental health  
+20122	Bipolar disorder status	Mental health  
+20400	Date of completing mental health questionnaire	Mental health  
+4598	Ever depressed for a whole week	Mental health  
+4653	Ever highly irritable/argumentative for 2 days	Mental health  
+4642	Ever manic/hyper for 2 days	Mental health  
+4631	Ever unenthusiastic/disinterested for a whole week	Mental health  
+4559	Family relationship satisfaction	Mental health  
+1960	Fed-up feelings	Mental health  
+4581	Financial situation satisfaction	Mental health  
+2050	Frequency of depressed mood in last 2 weeks	Mental health  
+2070	Frequency of tenseness / restlessness in last 2 weeks	Mental health  
+2080	Frequency of tiredness / lethargy in last 2 weeks	Mental health  
+2060	Frequency of unenthusiasm / disinterest in last 2 weeks	Mental health  
+4570	Friendships satisfaction	Mental health  
+2030	Guilty feelings	Mental health  
+4526	Happiness	Mental health  
+4548	Health satisfaction	Mental health  
+6145	Illness, injury, bereavement, stress in last 2 years	Mental health  
+10721	Illness, injury, bereavement, stress in last 2 years (pilot)	Mental health  
+1940	Irritability	Mental health  
+5663	Length of longest manic/irritable episode	Mental health  
+2020	Loneliness, isolation	Mental health  
+4609	Longest period of depression	Mental health  
+5375	Longest period of unenthusiasm / disinterest	Mental health  
+6156	Manic/hyper symptoms	Mental health  
+1930	Miserableness	Mental health  
+1920	Mood swings	Mental health  
+1970	Nervous feelings	Mental health  
+20127	Neuroticism score	Mental health  
+4620	Number of depression episodes	Mental health  
+5386	Number of unenthusiastic/disinterested episodes	Mental health  
+20124	Probable recurrent major depression (moderate)	Mental health  
+20125	Probable recurrent major depression (severe)	Mental health  
+2040	Risk taking	Mental health  
+2100	Seen a psychiatrist for nerves, anxiety, tension or depression	Mental health  
+2090	Seen doctor (GP) for nerves, anxiety, tension or depression	Mental health  
+1950	Sensitivity / hurt feelings	Mental health  
+5674	Severity of manic/irritable episodes	Mental health  
+20123	Single episode of probable major depression	Mental health  
+2010	Suffer from 'nerves'	Mental health  
+1990	Tense / 'highly strung'	Mental health  
+4537	Work/job satisfaction	Mental health  
+1980	Worrier / anxious feelings	Mental health  
+2000	Worry too long after embarrassment	Mental health  
+20554	Actions taken following self-harm	Self-harm behaviours  
+20484	Attempted suicide in past year	Self-harm behaviours  
+20486	Contemplated self-harm in past year	Self-harm behaviours  
+20483	Ever attempted suicide	Self-harm behaviours  
+20485	Ever contemplated self-harm	Self-harm behaviours  
+20480	Ever self-harmed	Self-harm behaviours  
+20479	Ever thought that life not worth living	Self-harm behaviours  
+20553	Methods of self-harm used	Self-harm behaviours  
+20482	Number of times self-harmed	Self-harm behaviours  
+20481	Self-harmed in past year	Self-harm behaviours  
+20525	Able to pay rent/mortgage as an adult	Traumatic events  
+20495	Avoided activities or situations because of previous stressful experience in past month	Traumatic events  
+20522	Been in a confiding relationship as an adult	Traumatic events  
+20526	Been in serious accident believed to be life-threatening	Traumatic events  
+20527	Been involved in combat or exposed to war-zone	Traumatic events  
+20521	Belittlement by partner or ex-partner as an adult	Traumatic events  
+20528	Diagnosed with life-threatening illness	Traumatic events  
+20496	Felt distant from other people in past month	Traumatic events  
+20487	Felt hated by family member as a child	Traumatic events  
+20494	Felt irritable or had angry outbursts in past month	Traumatic events  
+20489	Felt loved as a child	Traumatic events  
+20498	Felt very upset when reminded of stressful experience in past month	Traumatic events  
+20523	Physical violence by partner or ex-partner as an adult	Traumatic events  
+20488	Physically abused by family as a child	Traumatic events  
+20497	Repeated disturbing thoughts of stressful experience in past month	Traumatic events  
+20524	Sexual interference by partner or ex-partner without consent as an adult	Traumatic events  
+20490	Sexually molested as a child	Traumatic events  
+20491	Someone to take to doctor when needed as a child	Traumatic events  
+20529	Victim of physically violent crime	Traumatic events  
+20531	Victim of sexual assault	Traumatic events  
+20530	Witnessed sudden violent death	Traumatic events  
+20461	Age when first had unusual or psychotic experience	Unusual and psychotic experiences  
+20462	Distress caused by unusual or psychotic experiences	Unusual and psychotic experiences  
+20468	Ever believed in an un-real conspiracy against self	Unusual and psychotic experiences  
+20474	Ever believed in un-real communications or signs	Unusual and psychotic experiences  
+20463	Ever heard an un-real voice	Unusual and psychotic experiences  
+20466	Ever prescribed a medication for unusual or psychotic experiences	Unusual and psychotic experiences  
+20471	Ever seen an un-real vision	Unusual and psychotic experiences  
+20477	Ever talked to a health professional about unusual or psychotic experiences	Unusual and psychotic experiences  
+20467	Frequency of unusual or psychotic experiences in past year	Unusual and psychotic experiences  
+20470	Number of times believed in an un-real conspiracy against self	Unusual and psychotic experiences  
+20476	Number of times believed in un-real communications or signs	Unusual and psychotic experiences  
+20465	Number of times heard an un-real voice	Unusual and psychotic experiences  
+20473	Number of times seen an un-real vision	Unusual and psychotic experiences  

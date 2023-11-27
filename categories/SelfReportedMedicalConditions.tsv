@@ -1,0 +1,119 @@
+Field ID	Description	Category
+4717	Shortness of breath walking on level ground	Breathing  
+2316	Wheeze or whistling in the chest in last year	Breathing  
+2345	Ever had bowel cancer screening	Cancer screening  
+2365	Ever had prostate specific antigen (PSA) test	Cancer screening  
+2355	Most recent bowel cancer screening	Cancer screening  
+3809	Time since last prostate specific antigen (PSA) test	Cancer screening  
+3616	Chest pain due to walking ceases when standing still	Chest pain  
+2335	Chest pain or discomfort	Chest pain  
+3606	Chest pain or discomfort walking normally	Chest pain  
+3751	Chest pain or discomfort when walking uphill or hurrying	Chest pain  
+5463	Leg pain in calf/calves	Claudication and peripheral artery disease  
+4728	Leg pain on walking	Claudication and peripheral artery disease  
+5507	Leg pain on walking : action taken	Claudication and peripheral artery disease  
+5518	Leg pain on walking : effect of standing still	Claudication and peripheral artery disease  
+5452	Leg pain when standing still or sitting	Claudication and peripheral artery disease  
+5496	Leg pain when walking ever disappears while walking	Claudication and peripheral artery disease  
+5485	Leg pain when walking normally	Claudication and peripheral artery disease  
+5474	Leg pain when walking uphill or hurrying	Claudication and peripheral artery disease  
+5529	Surgery on leg arteries (other than for varicose veins)	Claudication and peripheral artery disease  
+5540	Surgery/amputation of toe or leg	Claudication and peripheral artery disease  
+4700	Age cataract diagnosed	Eyesight  
+4689	Age glaucoma diagnosed	Eyesight  
+5923	Age macular degeneration diagnosed	Eyesight  
+5945	Age other serious eye condition diagnosed	Eyesight  
+2217	Age started wearing glasses or contact lenses	Eyesight  
+5901	Age when diabetes-related eye disease diagnosed	Eyesight  
+5430	Age when loss of vision due to injury or trauma diagnosed	Eyesight  
+6148	Eye problems/disorders	Eyesight  
+2227	Other eye problems	Eyesight  
+6147	Reason for glasses/contact lenses	Eyesight  
+2207	Wears glasses or contact lenses	Eyesight  
+5408	Which eye(s) affected by amblyopia (lazy eye)	Eyesight  
+5855	Which eye(s) affected by astigmatism	Eyesight  
+5890	Which eye(s) affected by diabetes-related eye disease	Eyesight  
+6119	Which eye(s) affected by glaucoma	Eyesight  
+5832	Which eye(s) affected by hypermetropia (long sight)	Eyesight  
+5419	Which eye(s) affected by injury or trauma resulting in loss of vision	Eyesight  
+5912	Which eye(s) affected by macular degeneration	Eyesight  
+5843	Which eye(s) affected by myopia (short sight)	Eyesight  
+5877	Which eye(s) affected by other eye condition	Eyesight  
+5934	Which eye(s) affected by other serious eye condition	Eyesight  
+5610	Which eye(s) affected by presbyopia	Eyesight  
+6205	Which eye(s) affected by strabismus (squint)	Eyesight  
+5441	Which eye(s) are affected by cataract	Eyesight  
+2296	Falls in the last year	General health  
+2188	Long-standing illness, disability or infirmity	General health  
+2178	Overall health rating	General health  
+2306	Weight change compared with 1 year ago	General health  
+4792	Cochlear implant	Hearing  
+3393	Hearing aid user	Hearing  
+2247	Hearing difficulty/problems	Hearing  
+10793	Hearing difficulty/problems (pilot)	Hearing  
+2257	Hearing difficulty/problems with background noise	Hearing  
+4836	Loud music exposure frequency	Hearing  
+4825	Noisy workplace	Hearing  
+4803	Tinnitus	Hearing  
+4814	Tinnitus severity/nuisance	Hearing  
+3627	Age angina diagnosed	Medical conditions  
+3786	Age asthma diagnosed	Medical conditions  
+4012	Age deep-vein thrombosis (DVT, blood clot in leg) diagnosed	Medical conditions  
+2976	Age diabetes diagnosed	Medical conditions  
+3992	Age emphysema/chronic bronchitis diagnosed	Medical conditions  
+3761	Age hay fever, rhinitis or eczema diagnosed	Medical conditions  
+3894	Age heart attack diagnosed	Medical conditions  
+2966	Age high blood pressure diagnosed	Medical conditions  
+4022	Age pulmonary embolism (blood clot in lung) diagnosed	Medical conditions  
+4056	Age stroke diagnosed	Medical conditions  
+6152	Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor	Medical conditions  
+20001	Cancer code, self-reported	Medical conditions  
+2453	Cancer diagnosed by doctor	Medical conditions  
+2443	Diabetes diagnosed by doctor	Medical conditions  
+3005	Fracture resulting from simple fall	Medical conditions  
+6151	Fractured bone site(s)	Medical conditions  
+2463	Fractured/broken bones in last 5 years	Medical conditions  
+4041	Gestational diabetes only	Medical conditions  
+10844	Gestational diabetes only (pilot)	Medical conditions  
+20006	Interpolated Year when cancer first diagnosed	Medical conditions  
+20008	Interpolated Year when non-cancer illness first diagnosed	Medical conditions  
+20012	Method of recording time when cancer first diagnosed	Medical conditions  
+20013	Method of recording time when non-cancer illness first diagnosed	Medical conditions  
+20002	Non-cancer illness code, self-reported	Medical conditions  
+134	Number of self-reported cancers	Medical conditions  
+135	Number of self-reported non-cancer illnesses	Medical conditions  
+2473	Other serious medical condition/disability diagnosed by doctor	Medical conditions  
+3140	Pregnant	Medical conditions  
+2986	Started insulin within one year diagnosis of diabetes	Medical conditions  
+6150	Vascular/heart problems diagnosed by doctor	Medical conditions  
+6177	Medication for cholesterol, blood pressure or diabetes	Medication  
+6153	Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones	Medication  
+6154	Medication for pain relief, constipation, heartburn	Medication  
+10004	Medication for pain relief, constipation, heartburn (pilot)	Medication  
+10005	Medication for smoking cessation, constipation, heartburn, allergies (pilot)	Medication  
+6179	Mineral and other dietary supplements	Medication  
+10854	Other dietary supplements (pilot)	Medication  
+2492	Taking other prescription medications	Medication  
+6155	Vitamin and mineral supplements	Medication  
+10007	Vitamin and mineral supplements (pilot)	Medication  
+10723	Vitamin supplements (pilot)	Medication  
+137	Number of treatments/medications taken	Medications  
+20003	Treatment/medication code	Medications  
+6149	Mouth/teeth dental problems	Mouth  
+10006	Mouth/teeth dental problems (pilot)	Mouth  
+2415	Had major operations	Operations  
+2844	Had other major operations	Operations  
+20010	Interpolated Year when operation took place	Operations  
+20014	Method of recording time when operation occurred	Operations  
+136	Number of operations, self-reported	Operations  
+20004	Operation code	Operations  
+3079	Pace-maker	Operations  
+3571	Back pain for 3+ months	Pain  
+4067	Facial pains for 3+ months	Pain  
+2956	General pain for 3+ months	Pain  
+3799	Headaches for 3+ months	Pain  
+3414	Hip pain for 3+ months	Pain  
+3773	Knee pain for 3+ months	Pain  
+3404	Neck/shoulder pain for 3+ months	Pain  
+6159	Pain type(s) experienced in last month	Pain  
+3741	Stomach/abdominal pain for 3+ months	Pain  

@@ -1,0 +1,5 @@
+PROJ_DIR=getwd()
+PROJ_DATA=paste(PROJ_DIR,"../../data", sep = "")
+PROJ_BIN=paste(PROJ_DIR,"../../data/tools/", sep = "")
+PROJ_LIB=paste(PROJ_DIR,"/lib", sep = "")
+PROJ_MODULES=paste(PROJ_DIR,"/modules", sep = "")

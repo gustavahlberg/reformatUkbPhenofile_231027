@@ -1,0 +1,40 @@
+Field ID	Description	Category
+20210	Aortic distensibilty images - DICOM	Heart MRI  
+20213	Blood flow images - DICOM	Heart MRI  
+20211	Cine tagging images - DICOM	Heart MRI  
+20214	Experimental shMOLLI sequence images - DICOM	Heart MRI  
+12624	Identifier for blood pressure device	Heart MRI  
+20212	Left ventricular outflow tract images - DICOM	Heart MRI  
+20208	Long axis heart images - DICOM	Heart MRI  
+20207	Scout images for heart MRI - DICOM	Heart MRI  
+20209	Short axis heart images - DICOM	Heart MRI  
+22426	Average heart rate	Left ventricular size and function  
+22427	Body surface area	Left ventricular size and function  
+22425	Cardiac index	Left ventricular size and function  
+22424	Cardiac output	Left ventricular size and function  
+22420	LV ejection fraction	Left ventricular size and function  
+22421	LV end diastolic volume	Left ventricular size and function  
+22422	LV end systolic volume	Left ventricular size and function  
+22423	LV stroke volume	Left ventricular size and function  
+12681	Augmentation index for PWA	Pulse wave analysis  
+12695	Blood pressure test start time	Pulse wave analysis  
+12702	Cardiac index during PWA	Pulse wave analysis  
+12682	Cardiac output during PWA	Pulse wave analysis  
+12680	Central augmentation pressure during PWA	Pulse wave analysis  
+12678	Central pulse pressure during PWA	Pulse wave analysis  
+12677	Central systolic blood pressure during PWA	Pulse wave analysis  
+12698	Diastolic brachial blood pressure	Pulse wave analysis  
+12675	Diastolic brachial blood pressure during PWA	Pulse wave analysis  
+12683	End systolic pressure during PWA	Pulse wave analysis  
+12684	End systolic pressure index during PWA	Pulse wave analysis  
+12673	Heart rate during PWA	Pulse wave analysis  
+12687	Mean arterial pressure during PWA	Pulse wave analysis  
+12699	Number of PWA tests performed	Pulse wave analysis  
+12679	Number of beats in waveform average for PWA	Pulse wave analysis  
+12671	PWA start time	Pulse wave analysis  
+12676	Peripheral pulse pressure during PWA	Pulse wave analysis  
+12686	Stroke volume during PWA	Pulse wave analysis  
+12697	Systolic brachial blood pressure	Pulse wave analysis  
+12674	Systolic brachial blood pressure during PWA	Pulse wave analysis  
+12685	Total peripheral resistance during PWA	Pulse wave analysis  
+12700	Vicorder results plausible	Pulse wave analysis  

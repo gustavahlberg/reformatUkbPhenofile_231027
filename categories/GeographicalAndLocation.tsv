@@ -1,0 +1,14 @@
+Field ID	Description	Category
+130	Place of birth in UK - east co-ordinate	Early life factors  
+129	Place of birth in UK - north co-ordinate	Early life factors  
+22700	Date first recorded at location	Home locations  
+22701	Home location - east co-ordinate	Home locations  
+22702	Home location - east co-ordinate (rounded)	Home locations  
+22703	Home location - north co-ordinate	Home locations  
+22704	Home location - north co-ordinate (rounded)	Home locations  
+54	UK Biobank assessment centre	Reception  
+20118	Home area population density - urban or rural	Reception  
+20033	Home location at assessment - east co-ordinate	Reception  
+20074	Home location at assessment - east co-ordinate (rounded)	Reception  
+20034	Home location at assessment - north co-ordinate	Reception  
+20075	Home location at assessment - north co-ordinate (rounded)	Reception  
