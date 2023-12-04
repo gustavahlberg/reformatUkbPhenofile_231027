@@ -98,6 +98,10 @@ idxOrder = match(sample.id.order, sample.id.nonorder)
 # Subset pheno file to fields and load
 #
 
+
+skipFileds.fn <- ""
+skipFields <- read.table(skipFileds.fn)$V1
+
 mainField <- gsub("f\\.(\\d+)\\.?\\.\\d+\\.\\d+","\\1",header,perl = T)
 icdFields <- unique(categories.df$Field.ID[grep("ICD", categories.df$Description)])
 compoundFields <- categories.df$Field.ID[grep("CompundFields", rownames(categories.df))]
@@ -107,6 +111,12 @@ ids = ids[!ids == "f.eid"]
 
 # exclude compund fields
 ids = ids[!ids %in% compoundFields]
+
+
+# --->>> temporary solution quick fix. remove later
+# exclude already generated fields
+ids = ids[!ids %in% skipFields] 
+# --->>> temporary solution quick fix. remove later
 
 
 # ---- #
@@ -170,7 +180,13 @@ for(id in ids) {
                        idxCol, 
                        dataCode = dataCode
   )
-  
+
+  # if date
+  if(is.Date(tab[,1])) {
+        tab <- apply(tab, 2, as.character)
+  }
+             
+    
   tab[is.na(tab)] <- -9999
   
   dataType = ifelse(is.numeric(tab[,1]), "double", "character")
@@ -200,7 +216,7 @@ for(id in ids) {
       f = fields[i]
       h5writeDataset.array(as.vector(tab[,i]), gid, f, level=9)
     }
-  } else{
+  } else {
     #create not compund dataset 
     #if(dim(tab)[2] > 1) {
     
